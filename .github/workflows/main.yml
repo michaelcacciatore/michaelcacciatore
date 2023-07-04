@@ -16,6 +16,8 @@ jobs:
           node-version: 10.x
       - name: Install dependencies
         run: npm ci
+      - name: Install GTAG hack
+        run: npm install gatsby-plugin-google-gtag@2 --no-save
       - name: Build
         run: npm run build
       - uses: jakejarvis/s3-sync-action@master
