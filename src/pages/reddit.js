@@ -20,7 +20,7 @@ const RedditPage = () => (
       <li>Disables custom subreddit styles</li>
       <li>Makes numerous CSS tweaks for a more optimized mobile experience</li>
       <li>
-        Coming soon: A from the ground up replacement for reddit%apos;s mobile
+        Coming soon: A from the ground up replacement for reddit&apos;s mobile
         experience
       </li>
     </ul>
