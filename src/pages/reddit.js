@@ -28,15 +28,13 @@ const RedditPage = () => (
       These changes might not be ideal for everyone, but they work for me when I
       browse reddit.
     </p>
-    {/* <a style={{ display: 'block' }} href="https://github.com/michaelcacciatore">
-       Github
-     </a>
+    <p>For support, message me on <a href="https://www.reddit.com/message/compose/?to=reohh">reddit</a></p>
      <a
        style={{ display: 'block', marginBottom: '20px' }}
-       href="https://www.linkedin.com/in/michael-cacciatore-347b4359/"
+       href="https://apps.apple.com/us/app/re-reddit/id6450933367"
      >
-       LinkedIn
-     </a> */}
+       View on App Store
+     </a>
   </Layout>
 );
 
